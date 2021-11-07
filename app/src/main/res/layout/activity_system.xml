@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SystemActivity">
+
+
+    <fragment
+        android:id="@+id/sceneform_fragment2"
+        android:name="com.google.ar.sceneform.ux.ArFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:layout_marginBottom="50dp">
+
+        <ImageView
+            android:id="@+id/skele"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="10dp"
+            android:elevation="4dp"
+            android:src="@drawable/sk"/>
+
+        <ImageView
+            android:id="@+id/dig"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="10dp"
+            android:elevation="4dp"
+            android:src="@drawable/dig"/>
+
+
+
+        <ImageView
+            android:id="@+id/resp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:elevation="4dp"
+            android:src="@drawable/respi"/>
+
+    </LinearLayout>
+
+
+</FrameLayout>

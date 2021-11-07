@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.ar.sceneform.plugin'
+
+android {
+    compileSdkVersion 28
+
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildToolsVersion "29.0.1"
+    defaultConfig {
+        applicationId "najla.anatomy"
+        minSdkVersion 26
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+
+    implementation 'com.google.ar.sceneform.ux:sceneform-ux:1.10.0'
+
+
+}
+
+
+sceneform.asset('sampledata/models/female.OBJ',
+        'default',
+        'sampledata/models/female.sfa',
+        'src/main/res/raw/female')
+
+sceneform.asset('sampledata/models/male.OBJ',
+        'default',
+        'sampledata/models/male.sfa',
+        'src/main/res/raw/male')
+
+sceneform.asset('sampledata/models/digSys/stmoch.obj',
+        'default',
+        'sampledata/models/digSys/stmoch.sfa',
+        'src/main/res/raw/stmoch')
+
+
+sceneform.asset('sampledata/models/Skeleton/skeleton.obj',
+        'default',
+        'sampledata/models/Skeleton/skeleton.sfa',
+        'src/main/res/raw/skeleton')
+
+sceneform.asset('sampledata/models/respiratory.fbx',
+        'default',
+        'sampledata/models/respiratory.sfa',
+        'src/main/res/raw/respiratory')

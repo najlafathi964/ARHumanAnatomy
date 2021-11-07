@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Anatomy</string>
+    <string name="organ11">The mouth is the beginning of the digestive tract; and, in fact, digestion starts here when taking the first bite of food. Chewing breaks the food into pieces that are more easily digested, while saliva mixes with food to begin the process of breaking it down into a form your body can absorb and use.</string>
+    <string name="organ12">Located in your throat near your trachea (windpipe), the esophagus receives food from your mouth when you swallow. By means of a series of muscular contractions called peristalsis, the esophagus delivers food to your stomach.</string>
+    <string name="organ13">The liver has multiple functions, but its main function within the digestive system is to process the nutrients absorbed from the small intestine. Bile from the liver secreted into the small intestine also plays an important role in digesting fat. In addition, the liver is the body\'s chemical factory. It takes the raw materials absorbed by the intestine and makes all the various chemicals the body needs to function. The liver also detoxifies potentially harmful chemicals. It breaks down and secretes many drugs.</string>
+    <string name="organ14">The stomach is a hollow organ, or container, that holds food while it is being mixed with enzymes that continue the process of breaking down food into a usable form. Cells in the lining of the stomach secrete a strong acid and powerful enzymes that are responsible for the breakdown process. When the contents of the stomach are sufficiently processed, they are released into the small intestine.</string>
+    <string name="organ15">The pancreas secretes digestive enzymes into the duodenum, the first segment of the small intestine. These enzymes break down protein, fats, and carbohydrates. The pancreas also makes insulin, secreting it directly into the bloodstream. Insulin is the chief hormone for metabolizing sugar.</string>
+    <string name="organ16">The colon is a 6-foot long muscular tube that connects the small intestine to the rectum. The large intestine is made up of the cecum, the ascending (right) colon, the transverse (across) colon, the descending (left) colon, and the sigmoid colon, which connects to the rectum. The appendix is a small tube attached to the cecum. The large intestine is a highly specialized organ that is responsible for processing waste so that emptying the bowels is easy and convenient.Stool, or waste left over from the digestive process, is passed through the colon by means of peristalsis, first in a liquid state and ultimately in a solid form. As stool passes through the colon, water is removed. Stool is stored in the sigmoid (S-shaped) colon until a mass movement empties it into the rectum once or twice a day. It normally takes about 36 hours for stool to get through the colon. The stool itself is mostly food debris and bacteria. These bacteria perform several useful functions, such as synthesizing various vitamins, processing waste products and food particles, and protecting against harmful bacteria. When the descending colon becomes full of stool, or feces, it empties its contents into the rectum to begin the process of elimination.</string>
+    <string name="organ17">Made up of three segments - the duodenum, jejunum, and ileum - the small intestine is a 22-foot long muscular tube that breaks down food using enzymes released by the pancreas and bile from the liver. Peristalsis also is at work in this organ, moving food through and mixing it with digestive secretions from the pancreas and liver. The duodenum is largely responsible for the continuous breaking-down process, with the jejunum and ileum mainly responsible for absorption of nutrients into the bloodstream.Contents of the small intestine start out semi-solid, and end in a liquid form after passing through the organ. Water, bile, enzymes, and mucous contribute to the change in consistency. Once the nutrients have been absorbed and the leftover-food residue liquid has passed through the small intestine, it then moves on to the large intestine, or colon.</string>
+    <string name="organ18">The rectum (Latin for straight) is an 8-inch chamber that connects the colon to the anus. It is the rectum\'s job to receive stool from the colon, to let the person know that there is stool to be evacuated, and to hold the stool until evacuation happens. When anything (gas or stool) comes into the rectum, sensors send a message to the brain. The brain then decides if the rectal contents can be released or not. If they can, the sphincters relax and the rectum contracts, disposing its contents. If the contents cannot be disposed, the sphincter contracts and the rectum accommodates so that the sensation temporarily goes away.</string>
+    <string name="organ19">The anus is the last part of the digestive tract. It is a 2-inch long canal consisting of the pelvic floor muscles and the two anal sphincters (internal and external). The lining of the upper anus is specialized to detect rectal contents. It lets you know whether the contents are liquid, gas, or solid. The anus is surrounded by sphincter muscles that are important in allowing control of stool. The pelvic floor muscle creates an angle between the rectum and the anus that stops stool from coming out when it is not supposed to. The internal sphincter is always tight, except when stool enters the rectum. It keeps us continent when we are asleep or otherwise unaware of the presence of stool. When we get an urge to go to the bathroom, we rely on our external sphincter to hold the stool until reaching a toilet, where it then relaxes to release the contents.</string>
+
+    <string name="organ21">The skull is a bony structure that forms the head in vertebrates. It supports the structures of the face and provides a protective cavity for the brain. The skull is composed of two parts: the cranium and the mandible. In humans, these two parts are the neurocranium and the viscerocranium or facial skeleton that includes the mandible as its largest bone. The skull forms the anterior most portion of the skeleton and is a product of cephalisation—housing the brain, and several sensory structures such as the eyes, ears, nose, and mouth. In humans these sensory structures are part of the facial skeleton.</string>
+    <string name="organ22">The vertebral column usually consists of 33 vertebrae: 24 presacral vertebrae (7 cervical, 12 thoracic, and 5 lumbar) followed by the sacrum (5 fused sacral vertebrae) and the coccyx (4 frequently fused coccygeal vertebrae). The 24 presacral vertebrae allow movement and hence render the vertebral column flexible. Stability is provided by ligaments, muscles, and the form of the bones. The abbreviations C., T., L., S., and Co. are used for the regions, and these are sometimes followed by V. for vertebra or N. for nerve.
+</string>
+    <string name="organ23">The rib cage is the arrangement of ribs attached to the vertebral column and sternum in the thorax of most vertebrates, that encloses and protects the heart and lungs. In humans, the rib cage, also known as the thoracic cage, is a bony and cartilaginous structure which surrounds the thoracic cavity and supports the shoulder girdle to form the core part of the human skeleton. A typical human rib cage consists of 24 ribs in 12 pairs, the sternum and xiphoid process, the costal cartilages, and the 12 thoracic vertebrae.
+</string>
+    <string name="organ24">The shoulder girdle or pectoral girdle is the set of bones in the appendicular skeleton which connects to the arm on each side. In humans it consists of the clavicle and scapula; in those species with three bones in the shoulder, it consists of the clavicle, scapula, and coracoid.
+The pectoral girdles are to the upper limbs as the pelvic girdle is to the lower limbs; the girdles are the parts of the appendicular skeleton that anchor the appendages to the axial skeleton.
+In humans, the only true anatomical joints between the shoulder girdle and the axial skeleton are the sternoclavicular joints on each side. No anatomical joint exists between each scapula and the rib cage; instead the muscular connection or physiological joint between the two permits great mobility of the shoulder girdle compared to the compact pelvic girdle; because the upper limb is not usually involved in weight bearing, its stability has been sacrificed in exchange for greater mobility. In those species having only the scapula, no joint exists between the forelimb and the thorax, the only attachment being muscular.
+</string>
+    <string name="organ25">The upper limb or upper extremity is the region in a vertebrate animal extending from the deltoid region up to and including the hand, including the arm, axilla and shoulder.
+
+Parts of the Upper Limb
+The upper limb can be divided into following parts
+
+Shoulder Region
+Arm (or brachium)
+Forearm (or antebrachium)
+Hand (or manus).
+Shoulder Region
+Shoulder region consists of following
+
+The pectoral or breast region, on the front of the chest
+The axilla or armpit
+The scapular region on the back comprising parts around the scapula. The bones of the shoulder girdle are the clavicle and the scapula.
+Arm
+Also called upper arm or brachium, the arm extends from the shoulder to the elbow (or cubitus). The bone of the arm is the humerus. Its upper end meets the scapula and from the shoulder joint. The shoulder joint permits movements of the arm.
+
+
+Forearm or Antebrachium
+Forearm extends from the elbow to the wrist. The bones of the forearm are the radius and the ulna. At their upper ends, they meet the lower end of the humerus to form the elbow joint. Their lower ends meet the carpal bones to form the wrist joint.  The elbow joint permits movements of the forearm, namely flexion and extension. The radioulnar joints permit rotatory movements of the forearm called pronation and supination.
+
+Hand (manus)
+Hand includes
+
+The wrist or carpus
+The hand proper or metacarpus
+Five digits
+The carpal bones form the wrist joint with the radius, intercarpal joints with one another, and carpometacarpal joints with the metacarpals. The phalanges form metacarpophalangeal joints with the metacarpals, and interphalangeal joints with one another. Movements of the hand are permitted chiefly at the wrist joint. The thumb moves at the first carpometacarpal joint and each finger at its metacarpophalangeal joint.
+</string>
+    <string name="organ26">Pelvis, also called bony pelvis or pelvic girdle, in human anatomy, basin-shaped complex of bones that connects the trunk and the legs, supports and balances the trunk, and contains and supports the intestines, the urinary bladder, and the internal sex organs. The pelvis consists of paired hipbones, connected in front at the pubic symphysis and behind by the sacrum; each is made up of three bones—the blade-shaped ilium, above and to either side, which accounts for the width of the hips; the ischium, behind and below, on which the weight falls in sitting; and the pubis, in front. All three unite in early adulthood at a triangular suture in the acetabulum, the cup-shaped socket that forms the hip joint with the head of the femur (thighbone). The ring made by the pelvis functions as the birth canal in females. The pelvis provides attachment for muscles that balance and support the trunk and move the legs, the hips, and the trunk. In the human infant the pelvis is narrow and nonsupportive. As the child begins walking, the pelvis broadens and tilts, the sacrum descends deeper into its articulation with the ilia, and the lumbar curve of the lower back develops.
+</string>
+    <string name="organ27">The skeleton of the lower limb (or lower extremity) consists of the pelvis or pelvic skeleton (also known as pelvic girdle) and three parts of the free lower extremity: the thigh, the leg and the foot.
+
+The pelvis is made up from two hip bones and the sacrum.
+
+The skeleton of the thigh is formed by a single bone - the femur, and the leg (also known as lower leg) consists of two bones - the tibia and fibula.
+
+Between the thigh and the leg in the anterior knee region lies the largest sesamoid bone in the human body, the patella.
+
+The final part of the lower limb is the foot, and the skeleton of the human foot is formed by about 26 bones.
+</string>
+
+
+    <string name="organ31">Nose is a part of respiratory tract lying above mouth. It is made by hyaline cartilage.
+It is divided into right and left nasal cavity by nasal septum.
+Its anterior portion is cartilaginous and posterior portion is bony.
+The nasal cavities open outside through nostrils or external nares.
+The nasal cavities open posteriorly into the nasopharynx through internal nares.
+The opening of paranasal sinuses and nasolacrimal ducts lie in the nasal cavities.
+Internally, nasal cavity is lined with mucous membrane and ciliated columnar epithelium.
+It contains nasal hairs.
+</string>
+    <string name="organ32">It is both digestive and respiratory organ.It is a tube of 12-14 cm that extends the base of skull to the level of 5th cervical vertebra.
+It lies behind mouth, nose and larynx.It is connected to nasal cavity through the internal opening of nares and to the mouth.
+It is divided into three parts:
+a. Nasopharynx
+b. Oropharynx
+c. Laryngopharynx
+a. Nasopharynx
+It is the nasal part of pharynx.
+Lies behind the nose and superior to the soft palate.
+Lined with ciliated epithelium that help in cleaning inspired air.
+On the lateral wall, there are two opening of auditory tubes and on posterior wall, there is a pharyngeal tonsils, consisting of lymphoid tissues.
+b. Oropharynx
+Oral part of pharynx
+Lies at the posterior part of mouth, extends from soft palate to epiglottis.It is separated from mouth by a pair of membranous narrow passage called fauces.
+c. Laryngopharynx
+It is the lower most portion of pharynx and has a slit like aperture called glottis.
+This can be closed by leaf like bilobed cartilage, epiglottis, during swallowing of the food.
+</string>
+    <string name="organ33">
+Also called sound box or voice box.
+It is situated in the anterior neck i.e. in front of esophagus.
+It is small, thin walled, tubular part present in the neck at the apex of trachea.
+It connects the lower part of pharynx and trachea.
+Pharynx opens in larynx through glottis which is guarded by a leaf like unpaired cartilage which is called epiglottis. It prevents the entrance of food into trachea.
+It is composed of several irregular shaped cartilages- they are: 1 thyroid cartilage, 1 cricoid cartilage and 2 arytenoids cartilage. They prevent the larynx from collapsing.
+There are two vocal folds (true vocal cords) situated in the cavity of larynx between thyroid and arytenoid cartilage. Also a pair of vestibular folds are protective in function.
+
+The size of larynx is similar in boys and girls before puberty. After puberty, the larynx in male becomes larger and is called Adam’s apple in male. Adam’s apple is the ventral protuberance of thyroid cartilage of the larynx.
+
+</string>
+    <string name="organ34">It is hollow tube of about 11-12 cm in length and 2.5 cm in diameter.
+It extends from the base of larynx to thoracic cavity.
+It runs in the neck in front of oesophagus.
+It is supported by 16-20 C-shaped cartilaginous tracheal ring. These rings prevent the trachea from collapsing due to continuous relaxation and expansion.
+Internally, the wall of trachea is lined by pseudostratified ciliated epithelium with mucus secreting goblet cells. The secretion of mucus cells keep the wall of tube moist and trap dust particles.
+</string>
+    <string name="organ35">As the trachea reaches into the thoracic cavity, it divides into two branches called bronchi- right and left bronchi.
+Each bronchus has the structure similar to trachea. The right bronchus is wider and shorter than left bronchus. It is about 2.5 cm long and left bronchus is about 5 cm in length.
+Each bronchus when enter into corresponding lungs, it divides into smaller secondary bronchi and then into tertiary bronchi. These bronchi progressively subdivide into smaller and smaller tube called bronchioles and then into terminal bronchioles. Bronchioles continue to branch, and open into respiratory bronchioles which in turn branch into alveolar duct that lead into alveoli (microscopic air sac).
+
+</string>
+    <string name="organ36">Lungs are a pair of conical organ situated one on either side of thoracic cavity.
+They are hollow, soft, spongy, elastic, light and pink colored.
+There are one pair of lungs- they are right lung and left lung.
+Lungs are externally surrounded by two layers called pleural membrane. The outer membrane is called parietal pleural membrane and the inner layer is called visceral pleural membrane. These membranes protect lungs and stop leaking of air into thoracic cavity. The space between two layers is called pleural cavity which is filled with pleural fluid. The pleural fluid performs following function:
+
+i. Allows smooth/ free frictionless movement of lungs.
+ii. Protects the lungs from mechanical shocks.
+iii. Keeps the pleura together and lungs expanded.
+
+</string>
+    <string name="organ37">Bronchioles continue to branch, and open into respiratory bronchioles which in turn branch into alveolar duct that lead into microscopic air sac called alveoli.
+ Gaseous exchange takes place in alveoli. The alveoli are richly supplied with blood capillaries.
+ The wall of alveoli is lined with type I pneumocytes which help in gaseous exchange and type II pneumocytes produce surfactant.
+The surfactant reduces the surface tension so that the lungs do not collapse.
+</string>
+
+    <string name="img11">mouth2</string>
+    <string name="img12">esoph2</string>
+    <string name="img13">liver2</string>
+    <string name="img14">stomach2</string>
+    <string name="img15">pancreas2</string>
+    <string name="img16">colon2</string>
+    <string name="img17">smallint2</string>
+    <string name="img18">rectum2</string>
+    <string name="img19">anus2</string>
+
+
+    <string name="img21">skull1</string>
+    <string name="img22">column1</string>
+    <string name="img23">rib1</string>
+    <string name="img24">shoulder1</string>
+    <string name="img25">upper1</string>
+    <string name="img26">pelvic1</string>
+    <string name="img27">lower1</string>
+
+
+    <string name="img31">nose1</string>
+    <string name="img32">pharynx1</string>
+    <string name="img33">larynx1</string>
+    <string name="img34">trachea1</string>
+    <string name="img35">bronchi1</string>
+    <string name="img36">lungs1</string>
+    <string name="img37">alveoli1</string>
+
+
+    <string name="sysimg1">digsystem</string>
+    <string name="sysimg2">sesystem</string>
+    <string name="sysimg3">ressystem</string>
+
+    <string name="sys3">The human respiratory system is a series of organs responsible for taking in oxygen and expelling carbon dioxide. The primary organs of the respiratory system are lungs, which carry out this exchange of gases as we breathe.Red blood cells collect the oxygen from the lungs and carry it to the parts of the body where it is needed, according to the American Lung Association. During the process, the red blood cells collect the carbon dioxide and transport it back to the lungs, where it leaves the body when we exhale.The human body needs oxygen to sustain itself. A decrease in oxygen is known as hypoxia and a complete lack of oxygen is known as anoxia, according to the National Institutes of Health. These conditions can be fatal; after about four minutes without oxygen, brain cells begin dying, according to NYU Langone Medical Center, which can lead to brain damage and ultimately death.In humans, the average rate of breathing depends on age. A newborn\'s normal breathing rate is about 40 times each minute and may slow to 20 to 40 times per minute when the baby is sleeping, according to the Children\'s Hospital of Philadelphia.For adults, the average resting respiratory rate for adults is 12 to 16 breaths per minute, according to Johns Hopkins Medicine. Physical exertion also has an effect on respiratory rate, and healthy adults can average 45 breaths per minute during strenuous exercise.</string>
+
+    <string name="sys1">The human digestive system consists of the gastrointestinal tract plus the accessory organs of digestion (the tongue, salivary glands, pancreas, liver, and gallbladder). Digestion involves the breakdown of food into smaller and smaller components, until they can be absorbed and assimilated into the body. The process of digestion has three stages. The first stage is the cephalic phase of digestion which begins with gastric secretions in response to the sight and smell of food. This stage includes the mechanical breakdown of food by chewing, and the chemical breakdown by digestive enzymes, that takes place in the mouth.
+
+Saliva contains digestive enzymes called amylase, and lingual lipase, secreted by the salivary glands and serous glands on the tongue. The enzymes start to break down the food in the mouth. Chewing, in which the food is mixed with saliva, begins the mechanical process of digestion. This produces a bolus which can be swallowed down the esophagus to enter the stomach. In the stomach the gastric phase of digestion takes place. The food is further broken down by mixing with gastric acid until it passes into the duodenum, in the third intestinal phase of digestion, where it is mixed with a number of enzymes produced by the pancreas. Digestion is helped by the chewing of food carried out by the muscles of mastication, the tongue, and the teeth, and also by the contractions of peristalsis, and segmentation. Gastric acid, and the production of mucus in the stomach, are essential for the continuation of digestion.
+
+Peristalsis is the rhythmic contraction of muscles that begins in the esophagus and continues along the wall of the stomach and the rest of the gastrointestinal tract. This initially results in the production of chyme which when fully broken down in the small intestine is absorbed as chyle into the lymphatic system. Most of the digestion of food takes place in the small intestine. Water and some minerals are reabsorbed back into the blood in the colon of the large intestine. The waste products of digestion (feces) are defecated from the anus via the rectum.</string>
+
+    <string name="sys2">The human skeleton is the internal framework of the human body. It is composed of around 270 bones at birth – this total decreases to around 206 bones by adulthood after some bones get fused together. The bone mass in the skeleton reaches maximum density around age 21. The human skeleton can be divided into the axial skeleton and the appendicular skeleton. The axial skeleton is formed by the vertebral column, the rib cage, the skull and other associated bones. The appendicular skeleton, which is attached to the axial skeleton, is formed by the shoulder girdle, the pelvic girdle and the bones of the upper and lower limbs.
+
+The human skeleton performs six major functions; support, movement, protection, production of blood cells, storage of minerals, and endocrine regulation.</string>
+  <string name="sysname1">Digetive System</string>
+    <string name="sysname2">Skeleton System</string>
+    <string name="sysname3">Respiratory System</string>
+
+</resources>
